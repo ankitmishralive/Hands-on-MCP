@@ -137,12 +137,14 @@ The client application uses environment variables, specifically `GROQ_API_KEY`, 
 
 *   **Console Output:** This screenshot shows the typical output of the client application during a conversation, demonstrating how the agent interacts with the MCP server and utilizes the `get_alerts` tool.
 
-   ![image](https://github.com/user-attachments/assets/d6f67f60-714c-4ba3-9b53-0a0c74755b24)
+   ![image](https://github.com/user-attachments/assets/1785c9b2-ee8e-4f5d-990d-0d628ea8a6ea)
+
 
 
 *   **MCP Inspector:** This screenshot shows the typical weather.json used with the MCP Inspector
 
-   ![image](https://github.com/user-attachments/assets/37160f47-2cd9-410a-a358-8fd47d4144eb)
+   ![image](https://github.com/user-attachments/assets/dbae75e1-7b0e-4a25-b63a-77783f247b6e)
+
 
 
 ## Contact
